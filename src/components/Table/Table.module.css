@@ -1,0 +1,9 @@
+.user{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.user td,th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
